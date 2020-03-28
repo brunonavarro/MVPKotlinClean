@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CleanArqDemo</string>
+    <string name="clean_firestore_login">CLEAN FIRESTORE LOGIN</string>
+    <string name="full_name">Full Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="signup">Signup</string>
+    <string name="not_an_account_yet_register">Not an account yet ? Register</string>
+    <string name="productos_error_permiso_denegado">Error permiso denegado</string>
+    <string name="productos_error_server">Error con el servidor</string>
+    <string name="productos_error_to_remove">no se pudo eliminar el item</string>
+
+    <string name="item_producto_precio">%s</string>
+    <string name="item_producto_stock">%s</string>
+    <string name="item_producto_nombre">%s </string>
+</resources>
